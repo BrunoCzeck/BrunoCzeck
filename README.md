@@ -12,6 +12,8 @@ Hello Word meu nome e Bruno Gomes Czeck e eu sou Desenvolvedor Júnior procurand
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div>
  
+ <h2 dir="auto"></h2>
+ 
 <div> 
   <a href="https://instagram.com/bgck_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.facebook.com/profile.php?id=100005646822292" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
