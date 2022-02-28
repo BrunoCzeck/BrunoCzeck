@@ -11,7 +11,7 @@ Hello Word meu nome e Bruno Gomes Czeck e eu sou Desenvolvedor Júnior procurand
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div>
-#Linha
+  
 <h2 dir="auto"></h2>
  
 <div align="center"> 
