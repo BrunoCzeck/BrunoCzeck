@@ -1,4 +1,4 @@
-Hello Word meu nome e Bruno Gomes Czeck e eu sou Desenvolvedor Júnior procurando sempre aprender a evoluir no mercado de trabalho!!!
+Hello ,Word! Meu nome e Bruno Gomes Czeck sou Desenvolvedor Júnior atuando a 6 meses na área estou à procura de evoluir constantemente e acrescentar minhas experiencias no meu portfolio os meus projetos estão à disposição para toda a comunidade afim de agregar na área da programação !
 <div align="center">
   <a href="https://github.com/BrunoCzeck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoczeck&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
