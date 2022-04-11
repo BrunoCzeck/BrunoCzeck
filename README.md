@@ -1,8 +1,8 @@
 Hello ,Word! Meu nome e Bruno Gomes Czeck sou Desenvolvedor Júnior atuando a 6 meses na área estou à procura de evoluir constantemente e acrescentar minhas experiencias no meu portfolio os meus projetos estão à disposição para toda a comunidade afim de agregar na área da programação !
 <div align="center">
   <a href="https://github.com/BrunoCzeck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoczeck&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoczeck&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoczeck&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoczeck&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
