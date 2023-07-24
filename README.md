@@ -1,4 +1,5 @@
-Hello World! Meu nome e Bruno Gomes Czeck sou Desenvolvedor Júnior atuando a 9 meses na área estou à procura de evoluir constantemente e acrescentar minhas experiências no meu portfólio para toda a comunidade com o proposito de agregar na área da programação!
+Hello World!
+
 <div align="center">
   <a href="https://github.com/BrunoCzeck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoczeck&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
