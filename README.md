@@ -2,8 +2,8 @@ Hello World!
 
 <div align="center">
   <a href="https://github.com/BrunoCzeck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoczeck&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoczeck&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCzeck&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCzeck&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
