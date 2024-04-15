@@ -1,11 +1,11 @@
 Hello World!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/BrunoCzeck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCzeck&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCzeck&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
   <img align="center"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center"  src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
@@ -18,7 +18,7 @@ Hello World!
   
 <h2 dir="auto"></h2>
  
-<div align="center"> 
+<div align="left"> 
   <a href="https://instagram.com/bgck_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/BrunoGomesCzeck" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunoczeck@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
