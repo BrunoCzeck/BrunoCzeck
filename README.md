@@ -6,7 +6,6 @@ Hello World!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCzeck&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center"  src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
