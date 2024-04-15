@@ -1,5 +1,4 @@
-Hello World!
-
+Olá!
 <div align="left">
   <a href="https://github.com/BrunoCzeck">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCzeck&show_icons=true&theme=transparent"/>
@@ -16,7 +15,7 @@ Hello World!
   <img align="center"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
   
-<h2 dir="auto"></h2>
+<h2 dir="auto">Tecnologias</h2>
  
 <div align="left"> 
   <a href="https://instagram.com/bgck_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
