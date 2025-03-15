@@ -1,27 +1,21 @@
-<!-- Título ou saudação -->
 # Olá, eu sou Bruno Czeck! 👋
-
-<!-- Breve descrição ou apresentação pessoal -->
-Bem-vindo ao meu perfil. Sou desenvolvedor web com foco em [tecnologias X, Y e Z].
+Bem-vindo ao meu perfil. Sou desenvolvedor web com foco em técnologias como Next, Nest, React Native, React...
 
 <!-- Se quiser adicionar um banner ou imagem no topo -->
-<!-- <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Meu+Banner" alt="Banner" />
-</p> -->
+<p align="center">
+  <img src="https://www.rocketseat.com.br/blog/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstar-lab%2Fblog%2FOGs%2Freact.png&w=3840&q=75" alt="Banner" />
+</p> 
 
 ---
 
 ## 🌟 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Card com estatísticas gerais do perfil (commits, stars, etc.) -->
   <img 
        src="https://github-readme-stats.vercel.app/api?username=BrunoCzeck&show_icons=true&theme=dark" 
        alt="GitHub stats"
        height="160"
   />
-
-  <!-- Card com linguagens mais usadas -->
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCzeck&layout=compact&theme=dark" 
        alt="Top langs"
