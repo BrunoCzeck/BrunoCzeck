@@ -1,5 +1,6 @@
 # Olá, eu sou Bruno Czeck! 👋
-Sou desenvolvedor Web com foco em técnologias como Next, Nest, React Native, React...
+Sou desenvolvedor web com foco em tecnologias como Next.js, NestJS, React Native e React.
+Atualmente, todos os meus projetos estão privados, mas caso tenha interesse, estou à disposição para apresentá-los e demonstrar meu conhecimento nas tecnologias mencionadas.
 
 ---
 
